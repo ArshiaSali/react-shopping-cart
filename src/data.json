@@ -5,6 +5,7 @@
         "description": "about shoes1",
         "price": 21,
         "availableSizes": ["X", "L", "XL"],
+        "category":"shoes",
         "image": "/images/shoes1.jpg"
        },
        {"_id":"shoes2",
@@ -12,6 +13,7 @@
         "description": "about shoes2",
         "price": 20,
         "availableSizes": ["X", "L"],
+        "category":"shoes",
         "image": "/images/shoes2.jpg"
        },
        {"_id":"shoes3",
@@ -19,6 +21,7 @@
         "description": "about shoes3",
         "price": 23,
         "availableSizes": ["L", "XL"],
+        "category":"shoes",
         "image": "/images/shoes3.jpg"
        },
        {"_id":"shoes4",
@@ -26,6 +29,7 @@
         "description": "about shoes4",
         "price": 27,
         "availableSizes": ["X", "L", "XL"],
+        "category":"shoes",
         "image": "/images/shoes4.jpg"
        },
        {"_id":"shoes5",
@@ -33,6 +37,7 @@
         "description": "about shoes5",
         "price": 25,
         "availableSizes": ["X", "L", "XL"],
+        "category":"shoes",
         "image": "/images/shoes5.jpg"
        },
        {"_id":"shoes6",
@@ -40,6 +45,7 @@
         "description": "about shoes6",
         "price": 20,
         "availableSizes": ["X", "L", "XL"],
+        "category":"shoes",
         "image": "/images/shoes6.jpg"
        },
        {"_id":"shoes7",
@@ -47,7 +53,24 @@
         "description": "about shoes7",
         "price": 20,
         "availableSizes": ["X", "L", "XL"],
+        "category":"shoes",
         "image": "/images/shoes7.jpg"
+       },
+       {"_id":"salt",
+        "title": "salt",
+        "description": "about salt",
+        "price": 10,
+        "availableSizes": ["X", "L", "XL"],
+        "category":"food",
+        "image": "/images/salt.jpg"
+       },
+       {"_id":"sugar",
+        "title": "sugar",
+        "description": "about sugar",
+        "price": 15,
+        "availableSizes": ["X", "L", "XL"],
+        "category":"food",
+        "image": "/images/sugar.jpg"
        }
        
     ]
