@@ -3,7 +3,7 @@
        {"_id":"shoes1",
         "title": "shoes1",
         "description": "about shoes1",
-        "price": 20,
+        "price": 21,
         "availableSizes": ["X", "L", "XL"],
         "image": "/images/shoes1.jpg"
        },
@@ -17,21 +17,21 @@
        {"_id":"shoes3",
         "title": "shoes3",
         "description": "about shoes3",
-        "price": 20,
+        "price": 23,
         "availableSizes": ["L", "XL"],
         "image": "/images/shoes3.jpg"
        },
        {"_id":"shoes4",
         "title": "shoes4",
         "description": "about shoes4",
-        "price": 20,
+        "price": 27,
         "availableSizes": ["X", "L", "XL"],
         "image": "/images/shoes4.jpg"
        },
        {"_id":"shoes5",
         "title": "shoes5",
         "description": "about shoes5",
-        "price": 20,
+        "price": 25,
         "availableSizes": ["X", "L", "XL"],
         "image": "/images/shoes5.jpg"
        },
