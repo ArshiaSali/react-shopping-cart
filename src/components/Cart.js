@@ -79,7 +79,9 @@ export default class Cart extends Component {
                              </div>
                              {this.state.showCheckout && (
                                  <div className="cart">
+                                    
                                 <form onSubmit={this.createOrder}>
+                                     <h3>Checkout</h3>
                                     <ul className="form-container">
                                         <li>
                                             <label>E-mail</label>
