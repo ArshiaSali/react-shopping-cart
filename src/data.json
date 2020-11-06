@@ -1,0 +1,54 @@
+{
+    "products":[
+       {"_id":"shoes1",
+        "title": "shoes1",
+        "description": "about shoes1",
+        "price": 20,
+        "availableSizes": ["X", "L", "XL"],
+        "image": "/images/shoes1.jpg"
+       },
+       {"_id":"shoes2",
+        "title": "shoes2",
+        "description": "about shoes2",
+        "price": 20,
+        "availableSizes": ["X", "L"],
+        "image": "/images/shoes2.jpg"
+       },
+       {"_id":"shoes3",
+        "title": "shoes3",
+        "description": "about shoes3",
+        "price": 20,
+        "availableSizes": ["L", "XL"],
+        "image": "/images/shoes3.jpg"
+       },
+       {"_id":"shoes4",
+        "title": "shoes4",
+        "description": "about shoes4",
+        "price": 20,
+        "availableSizes": ["X", "L", "XL"],
+        "image": "/images/shoes4.jpg"
+       },
+       {"_id":"shoes5",
+        "title": "shoes5",
+        "description": "about shoes5",
+        "price": 20,
+        "availableSizes": ["X", "L", "XL"],
+        "image": "/images/shoes5.jpg"
+       },
+       {"_id":"shoes6",
+        "title": "shoes6",
+        "description": "about shoes6",
+        "price": 20,
+        "availableSizes": ["X", "L", "XL"],
+        "image": "/images/shoes6.jpg"
+       },
+       {"_id":"shoes7",
+        "title": "shoes7",
+        "description": "about shoes7",
+        "price": 20,
+        "availableSizes": ["X", "L", "XL"],
+        "image": "/images/shoes7.jpg"
+       }
+       
+    ]
+}
