@@ -198,7 +198,8 @@ input {
   padding: 1rem;
   border: 0.1rem #c0c0c0 solid;
 }
-/* Product Details */
+
+
 .product-details {
   display: flex;
   flex-wrap: wrap;
@@ -243,7 +244,7 @@ input {
 .success-message {
   color: green;
 }
-/* Orders */
+
 .orders {
   width: 100%;
   padding: 10px;
