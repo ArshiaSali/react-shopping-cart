@@ -207,8 +207,8 @@ input {
   max-height: 96vh;
 }
 .product-details img {
-  max-height: 100vh;
-  max-width: 46rem;
+  max-height: 175vh;
+  max-width: 65rem;
   margin: 0 auto;
 }
 .product-details-description {
